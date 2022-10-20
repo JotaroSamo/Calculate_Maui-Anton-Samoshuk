@@ -14,7 +14,19 @@ namespace Calculate_Anton
             switch (operatorMath)
             {
                 case "/":
+                    if (val1==0)
+                    {
+                        result = "0";
+                    }
+                    if (val2==0)
+                    {
+                        result = "Eror! Not devide 0";
+                    }
+                    else
+                    {
                         result = (val1 / val2).ToString();
+                    }
+                        
                     break;
                 case "-":
                     result = (val1 - val2).ToString();

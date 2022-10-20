@@ -37,7 +37,7 @@
             HorizontalTextAlignment="End"
             LineBreakMode="NoWrap"
             Text="0"
-            TextColor="White"
+            TextColor="Yellow"
             VerticalTextAlignment="Center" />
 
 
@@ -50,7 +50,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="C"
-            TextColor="White" />
+             TextColor="Yellow" />
             <Button
             Grid.Row="1"
             Grid.Column="1"
@@ -59,7 +59,7 @@
             CornerRadius="0"
             FontSize="30"
             Text="Back"
-            TextColor="White" />
+             TextColor="Yellow" />
             <Button
             Grid.Row="1"
             Grid.Column="2"
@@ -68,52 +68,52 @@
             CornerRadius="0"
             FontSize="36"
             Text="+/-"
-            TextColor="White" />
+             TextColor="Yellow" />
             <Button
             Grid.Row="1"
             Grid.Column="4"
-             BackgroundColor="Black"
+             BackgroundColor="Yellow"
             Clicked="onOperatorSelection"
             CornerRadius="0"
             FontSize="36"
             Text="/"
-            TextColor="White" />
+            TextColor="Black" />
             <Button
             Grid.Row="2"
             Grid.Column="3"
-             BackgroundColor="Black"
+             BackgroundColor="Yellow"
             Clicked="onOperatorSelection"
             CornerRadius="0"
             FontSize="36"
             Text="*"
-            TextColor="White" />
+             TextColor="Black" />
             <Button
             Grid.Row="3"
             Grid.Column="3"
-             BackgroundColor="Black"
+             BackgroundColor="Yellow"
             Clicked="onOperatorSelection"
             CornerRadius="0"
             FontSize="36"
             Text="-"
-            TextColor="White" />
+            TextColor="Black" />
             <Button
             Grid.Row="4"
             Grid.Column="3"
-            BackgroundColor="Black"
+            BackgroundColor="Yellow"
             Clicked="onOperatorSelection"
             CornerRadius="0"
             FontSize="36"
             Text="+"
-            TextColor="White" />
+            TextColor="Black" />
             <Button
             Grid.Row="5"
             Grid.Column="3"
-            BackgroundColor="Black"
+            BackgroundColor="Yellow"
             Clicked="onCalculate"
             CornerRadius="0"
             FontSize="36"
             Text="="
-            TextColor="White" />
+             TextColor="Black" />
 
 
             <Button
@@ -124,7 +124,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="7"
-             TextColor="White" />
+            TextColor="Yellow" />
             <Button
             Grid.Row="2"
             Grid.Column="1"
@@ -133,7 +133,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="8"
-            TextColor="White" />
+            TextColor="Yellow" />
             <Button
             Grid.Row="2"
             Grid.Column="2"
@@ -142,7 +142,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="9"
-             TextColor="White" />
+             TextColor="Yellow" />
 
 
             <Button
@@ -153,7 +153,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="4"
-             TextColor="White" />
+            TextColor="Yellow"/>
             <Button
             Grid.Row="3"
             Grid.Column="1"
@@ -162,7 +162,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="5"
-             TextColor="White" />
+             TextColor="Yellow" />
             <Button
             Grid.Row="3"
             Grid.Column="2"
@@ -171,7 +171,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="6"
-             TextColor="White" />
+            TextColor="Yellow" />
 
 
             <Button
@@ -182,7 +182,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="1"
-             TextColor="White" />
+            TextColor="Yellow"/>
             <Button
             Grid.Row="4"
             Grid.Column="1"
@@ -191,7 +191,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="2"
-             TextColor="White" />
+            TextColor="Yellow" />
 
             <Button
             Grid.Row="4"
@@ -201,7 +201,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="3"
-             TextColor="White" />
+             TextColor="Yellow" />
             <Button
             Grid.Row="5"
             Grid.Column="0"
@@ -211,7 +211,7 @@
             CornerRadius="0"
             FontSize="36"
             Text="0"
-             TextColor="White" />
+            TextColor="Yellow" />
             <!--<Button
             Grid.Row="5"
             Grid.Column="2"
