@@ -103,7 +103,7 @@ public partial class MainPage : ContentPage
             }
             catch (Exception)
             {
-                this.result.Text="EROR!!!";
+                this.result.Text=result;
 
             }
 
